@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/roshan/roshan1/projects/TargetSum/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/roshan/.android/build-cache/a64268feb85882d58761581aea512422e23f047f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/roshan/roshan1/projects/TargetSum/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/roshan/.android/build-cache/a64268feb85882d58761581aea512422e23f047f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/roshan/roshan1/projects/TargetSum/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/roshan/.android/build-cache/a64268feb85882d58761581aea512422e23f047f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/roshan/roshan1/projects/TargetSum/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/roshan/.android/build-cache/a64268feb85882d58761581aea512422e23f047f/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

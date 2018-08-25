@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/roshan/roshan1/projects/TargetSum/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/media/roshan/roshan1/projects/TargetSum/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/roshan/roshan1/projects/TargetSum/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/media/roshan/roshan1/projects/TargetSum/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
